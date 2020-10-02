@@ -1,0 +1,47 @@
+			html {
+			
+				background-image: url("background.jpg");
+				background-color:#132530;
+				background-size: cover;
+				background-repeat: no-repeat;
+			
+			}
+			
+			body {
+				
+				background: none;
+				
+			}
+			
+			.container {
+				
+				text-align: center;
+				width: 500px;
+				
+			}
+			
+			h1 {
+				
+				margin-top: 200px;
+				color: white;
+				font-size: 250%;
+				
+			}
+			
+			p {
+				
+				color: white;
+				
+			}
+			
+			input {
+				
+				margin-top: 25px;
+				margin-botton: 25px;
+			}
+			
+			#weather {
+				
+				margin-top: 15px;
+				
+			}
